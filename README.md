@@ -1,6 +1,6 @@
 # QuicklySign
 </br>
-This is just a space to get acquainted with the QuicklySign api.
+This is just a playpen for the QuicklySign api.
 </br>
 Microgoals#1: Upload pdf to data store</br>
 Microgoals#2: Add signature and date box </br>
